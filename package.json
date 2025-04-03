@@ -1,0 +1,22 @@
+{
+  "name": "wallet-monad-stable",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@web3modal/ethereum": "^2.5.0",
+    "@web3modal/react": "^2.6.2",
+    "ethers": "^5.7.2",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "wagmi": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.0",
+    "@types/react": "19.1.0"
+  }
+}
